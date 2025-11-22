@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @allin3x
-- 👀 I’m interested in all Technologies, F1
-- 🌱 I’m currently learning Python, AI, ML, Linux Ricing
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- I am not a Software Developer but like to learn it in my free time.
+- 👀 I’m interested in all Technologies => Never stop Learning.
+- 🌱 I’m currently learning Python, AI, ML, Linux Ricing, Rust(to be started)
 
 <!---
 allin3x/allin3x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
